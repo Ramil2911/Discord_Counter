@@ -1,0 +1,16 @@
+C:\Users\Ramil\RiderProjects\discordstats\discordstats\obj\Debug\netcoreapp3.1\discordstats.csprojAssemblyReference.cache
+C:\Users\Ramil\RiderProjects\discordstats\discordstats\obj\Debug\netcoreapp3.1\discordstats.AssemblyInfoInputs.cache
+C:\Users\Ramil\RiderProjects\discordstats\discordstats\obj\Debug\netcoreapp3.1\discordstats.AssemblyInfo.cs
+C:\Users\Ramil\RiderProjects\discordstats\discordstats\obj\Debug\netcoreapp3.1\discordstats.csproj.CoreCompileInputs.cache
+C:\Users\Ramil\RiderProjects\discordstats\discordstats\bin\Debug\netcoreapp3.1\discordstats.exe
+C:\Users\Ramil\RiderProjects\discordstats\discordstats\bin\Debug\netcoreapp3.1\discordstats.deps.json
+C:\Users\Ramil\RiderProjects\discordstats\discordstats\bin\Debug\netcoreapp3.1\discordstats.runtimeconfig.json
+C:\Users\Ramil\RiderProjects\discordstats\discordstats\bin\Debug\netcoreapp3.1\discordstats.runtimeconfig.dev.json
+C:\Users\Ramil\RiderProjects\discordstats\discordstats\bin\Debug\netcoreapp3.1\discordstats.dll
+C:\Users\Ramil\RiderProjects\discordstats\discordstats\bin\Debug\netcoreapp3.1\discordstats.pdb
+C:\Users\Ramil\RiderProjects\discordstats\discordstats\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Ramil\RiderProjects\discordstats\discordstats\obj\Debug\netcoreapp3.1\discordstats.csproj.CopyComplete
+C:\Users\Ramil\RiderProjects\discordstats\discordstats\obj\Debug\netcoreapp3.1\discordstats.dll
+C:\Users\Ramil\RiderProjects\discordstats\discordstats\obj\Debug\netcoreapp3.1\discordstats.pdb
+C:\Users\Ramil\RiderProjects\discordstats\discordstats\obj\Debug\netcoreapp3.1\discordstats.genruntimeconfig.cache
+C:\Users\Ramil\RiderProjects\discordstats\discordstats\bin\Debug\netcoreapp3.1\CsvHelper.dll

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "mo8rsYDOhm9A4tUdBEEGrp9U5Z5GilXh0kimXJQOjMYGZgpaxPI6PLMQNfJ3g3jKJ2efHGPEiE3KvoukYzb3Zw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ramil\\RiderProjects\\discordstats\\discordstats\\discordstats.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ramil\\.nuget\\packages\\csvhelper\\15.0.5\\csvhelper.15.0.5.nupkg.sha512",
+    "C:\\Users\\Ramil\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\Ramil\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
